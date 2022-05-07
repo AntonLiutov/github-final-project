@@ -6,7 +6,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# Anton Liutov
+# AntonLiutov
 
 # Input:
 # p, principal amount
